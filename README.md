@@ -24,11 +24,11 @@ I'm passionate about technology, open-source, and building impactful solutions.
 
 ## 🌟 Featured Projects
 
-- [**Chip 8 Emulator**](https://github.com/DanielsRT/Chip8Emulator)
-  *An application capable of interpreting Chip8 instruction sets to emulate a basic processor and load Chip8 ROMs.*
+- [**Chip 8 Emulator**](https://github.com/DanielsRT/Chip8Emulator)  
+  *An application capable of interpreting Chip8 instruction sets to emulate a basic processor and load Chip8 ROMs.*  
 
-- [**3D Graphics Engine**](https://github.com/DanielsRT/GraphicsEngine3D)
-  *An application capable of loading and modeling 3D graphics. 3D coordinates are converted into 2D coordinates using a projection matrix.*
+- [**3D Graphics Engine**](https://github.com/DanielsRT/GraphicsEngine3D)  
+  *An application capable of loading and modeling 3D graphics. 3D coordinates are converted into 2D coordinates using a projection matrix.*  
   
 - [**CIFAR-10 Image Recognition**](https://github.com/DanielsRT/cifar10-cnn-classifier)  
   *A deep learning project implementing a Convolutional Neural Network for image classification on the CIFAR-10 dataset.*  
