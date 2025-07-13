@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Rob!
 
 Welcome to my GitHub profile!  
-I'm passionate about technology, open-source, and building impactful solutions.
+I'm passionate about technology, open-source, and machine learning.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Student exploring the world of software engineering and computer science.
-- 🌱 Always learning and expanding my horizon in development, AI, and web technologies.
-- 🔭 Currently building projects in cybersecurity, machine learning, and full stack web applications.
+- 🎓 Student exploring the world of machine learning and computer science.
+- 🌱 Always learning and expanding my horizon in AI and development practices.
+- 🔭 Currently building projects in data analytics, machine learning, and full stack web applications.
 
 ---
 
