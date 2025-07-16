@@ -9,7 +9,7 @@ I'm passionate about technology, open-source, and machine learning.
 
 - 🎓 Student exploring the world of machine learning and computer science.
 - 🌱 Always learning and expanding my horizon in AI and development practices.
-- 🔭 Currently building projects in data analytics, machine learning, and full stack web applications.
+- 🔭 Currently building projects in data analytics, machine learning, and cybersecurity.
 
 ---
 
