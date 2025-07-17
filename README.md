@@ -37,7 +37,7 @@ I'm passionate about technology, open-source, and machine learning.
   *A deep learning project implementing a Convolutional Neural Network for image classification on the CIFAR-10 dataset.*  
 
 - [**Online Library System**](https://github.com/DanielsRT/OnlineLibrarySystem)  
-  *•	A full-stack library web app with Node.js backend and MySQL DB. Express.js REST APIs support authentication, checkouts, reservations, and returns.*  
+  *A full-stack library web app with Node.js backend and MySQL DB. Express.js REST APIs support authentication, checkouts, reservations, and returns.*  
 
 - [**Cat Fact Tracker**](https://github.com/DanielsRT/CatFactTracker)  
   *A full-stack web app that uses pulls random cat facts from [https://catfact.ninja/fact](https://catfact.ninja/fact), saves to a local SQLite database, creates a FastAPI to expose them, and displays or submit new facts through a React frontend.*
