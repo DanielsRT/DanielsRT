@@ -25,7 +25,7 @@ I'm passionate about technology, open-source, and machine learning.
 ## 🌟 Featured Projects
 
 - [**Incident Response Dashboard**](https://github.com/DanielsRT/Chip8Emulator)  
-  *A full-stack Python and React web app capable of querying security events through Azure API or optionally parsing through file logs. This application uses Logstash as a data processing pipeline to Elasticsearch and Kibana to sort and visualize security events to a web-based Incident Response Dashboard.* 
+  *A Python and ELK app capable of requesting security events from Azure API and querying through Kibana. This application uses Logstash as a data processing pipeline to Elasticsearch and Kibana to sort and visualize security events as a web-based Incident Response Dashboard* 
 
 - [**Chip 8 Emulator**](https://github.com/DanielsRT/Chip8Emulator)  
   *An application capable of interpreting Chip8 instruction sets to emulate a basic processor and load Chip8 ROMs.*  
